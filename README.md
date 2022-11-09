@@ -82,7 +82,7 @@ Output: 5
 
 ```Python
 Input: a = pi
-Output: pi
+Output: 3.141592653589793
 ```
 
 ## basic_func18
