@@ -1,3 +1,10 @@
-# Create a function called main.
-# Create function argument a.
-# Returns the square root of a number.
+def main(a):
+    '''find the square root of a number and return it.
+    
+    Args:
+        a (int): a number
+        
+    Returns:
+        float: the absolute value.
+    '''
+    return
