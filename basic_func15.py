@@ -1,3 +1,11 @@
-# Create a function called main.
-# Create function arguments a and b.
-# Return the modulus of a and b.
+def main(a, b):
+    '''find the modulus of a and b and return it.
+    
+    Args:
+        a (int): a number
+        b (int): a number
+        
+    Returns:
+        int: the result.
+    '''
+    return

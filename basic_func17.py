@@ -1,3 +1,10 @@
-# Create a function called main.
-# Create function arguments a.
-# Assign the value pi to the variable "a" and return.
+def main(a):
+    '''Assign the value pi to the parametr "a" and return it.
+    
+    Args:
+        a (float): a number
+        
+    Returns:
+        float: the value of pi.
+    '''
+    return

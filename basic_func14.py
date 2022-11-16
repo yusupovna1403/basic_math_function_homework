@@ -1,3 +1,11 @@
-# Create a function called main.
-# Create function arguments a and b.
-# Returns the floor division of a and b.
+def main(a, b):
+    '''find the floor division of a and b and return it.
+    
+    Args:
+        a (int): a number
+        b (int): a number
+        
+    Returns:
+        int: the result.
+    '''
+    return 
