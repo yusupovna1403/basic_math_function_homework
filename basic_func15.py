@@ -1,5 +1,5 @@
 def main(a, b):
-    '''find the modulus of a and b and return it.
+    '''Find the remainder when a is divided by b and return it.
     
     Args:
         a (int): a number
