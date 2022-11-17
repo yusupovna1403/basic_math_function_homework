@@ -1,5 +1,5 @@
-def main(a):
-    '''Assign the value pi to the parametr "a" and return it.
+def main():
+    '''return the value of pi
     
     Args:
         a (float): a number
