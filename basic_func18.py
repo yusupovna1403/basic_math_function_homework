@@ -5,10 +5,10 @@ def main(a):
     Args:
         a (float): a number
         
-    Returns:
+    Returns
         float: the result.
     '''
-    result = round(a , 2)
-    return result
+    a = round(a , 2)
+    return a
 
 print(main(pi))
