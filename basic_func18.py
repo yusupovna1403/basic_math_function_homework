@@ -8,7 +8,7 @@ def main(a):
     Returns
         float: the result.
     '''
-    a = round(a , 2)
-    return a
+    result = round(a , 2)
+    return result
 a = pi
 print(main(a))
